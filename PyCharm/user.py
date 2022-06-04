@@ -1,6 +1,0 @@
-print ("What's your name?")
-p = input("This is:")
-print ("How old are you?")
-k = int(input("It is:"))
-print ("Where do you live?")
-k = (input("(S)He lives in:"))
